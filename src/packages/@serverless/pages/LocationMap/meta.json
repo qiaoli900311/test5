@@ -1,0 +1,17 @@
+{
+    "name": "location-map",
+    "version": "1.0.0",
+    "title": "locationmap",
+    "description": "locationmap",
+    "type": "page",
+    "platform": [
+        "PC",
+        "MOBILE"
+    ],
+    "homePage": "/materials/24/dist32fed51b5e0ede8460eedc2d71111d73/index.html",
+    "category": "地图",
+    "screenshot": "/screenshots/24/32fed51b5e0ede8460eedc2d71111d73/1567587100889.png",
+    "path": "pages/LocationMap",
+    "origin": "http://gitlab.deepexi.top/deepexi/deepexi-serverless/serverless-material.git",
+    "hash": "32fed51b5e0ede8460eedc2d71111d73"
+}

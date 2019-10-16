@@ -1,18 +1,23 @@
 {
-    "name": "testql",
-    "description": "testqlmiaoshu",
-    "dependencies": {},
-    "alias": {},
-    "appKey": "vLkbrCsmUKmXjIJ82k6236xXLQdoq8ez",
-    "appSecret": "zKQyC2IFbO1UN5qGLXqoJvhzjJHZ5BaW",
-    "framework": "vue",
-    "git": {
-        "url": "https://github.com/qiaoli900311/test5.git",
-        "isPrivate": 1,
-        "username": "qiaoli900311",
-        "password": "48111400qiaoli"
-    },
-    "id": 193,
-    "platform": "pc",
-    "projectId": 73
+	"name": "testql",
+	"description": "testqlmiaoshu",
+	"dependencies": {
+		"location-map": "1.0.0"
+	},
+	"alias": {},
+	"appKey": "vLkbrCsmUKmXjIJ82k6236xXLQdoq8ez",
+	"appSecret": "zKQyC2IFbO1UN5qGLXqoJvhzjJHZ5BaW",
+	"framework": "vue",
+	"git": {
+		"url": "https://github.com/qiaoli900311/test5.git",
+		"isPrivate": 1,
+		"username": "qiaoli900311",
+		"password": "48111400qiaoli"
+	},
+	"id": 193,
+	"links": {
+		"LocationMap": "src/packages/@serverless/pages/LocationMap/src/index.vue"
+	},
+	"platform": "pc",
+	"projectId": 73
 }
